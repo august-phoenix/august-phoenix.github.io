@@ -7,10 +7,10 @@
 ## Double hash is a sub-header  
 
 ### Text Styles
-**make text bold**  
-<b>HTML make text bold</b>  
-*make text italicized*  
-<i>HTML make text italicized</i>  
+**\*\*Make text bold*\*\**  
+<b>HTML Make text bold</b>  
+*\*Make text italicized\**  
+<i>HTML Make text italicized</i>  
 
 ## Markdown Tips
 * Use double space at the end of lines to create a line break
