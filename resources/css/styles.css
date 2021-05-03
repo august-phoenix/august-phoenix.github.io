@@ -1,4 +1,32 @@
-img {
-  width: 100%;
-  height: auto;
+.totals h1 span:nth-of-type(2) {
+
+}
+
+table {
+    width: 100%;
+    border: thin black solid;
+}
+
+.red {
+    background-color: #ef233c;
+    color: #FFFFFF;
+}
+
+.green {
+    background-color: #a1ef8b;
+    color: #000000;
+}
+
+.number {
+    text-align: right;
+}
+
+
+tfoot th {
+    text-align: right;
+    font-size: 2em;
+}
+
+tfoot td {
+    border: black thin solid;
 }
